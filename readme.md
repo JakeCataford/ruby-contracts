@@ -1,5 +1,6 @@
 ruby-contracts
 ======
+[![Build Status](https://travis-ci.org/JakeCataford/ruby-contracts.svg?branch=master)](https://travis-ci.org/JakeCataford/ruby-contracts)
 
 **When quacks-like isn't good enough. :bird:**
 
